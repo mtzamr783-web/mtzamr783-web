@@ -12,15 +12,6 @@
 
 📱 **WhatsApp / Phone:** `+201110197867`
 
-<br>
-
-<details>
-<p><strong> <summary> 🎧 Busy coding, learning & Vibing to : </summary> </strong></p>
-
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
-
-</details>
-
 </div>
 
 <hr></hr>
@@ -44,7 +35,7 @@
 <hr></hr>
 
 ### 📂 My Learning Resources & Projects
-هنا تجميعة للملفات والمذكرات الأكاديمية والتطبيقية الخاصة بي (إعداد وتجميع: معتز عامر):
+هنا تجميعة للملفات والمذكرات الأكاديمية والتطبيقية الخاصة بي (إعداد وتجميع: Moataz Amer):
 
 #### 🔹 لغة الـ C++ وأساسيات البرمجة
 * 📄 **[الاساسيات](./الاساسيات.pdf)** - كتابة الأكواد البرمجية والتأسيس مع المهندس أسامة الزيرو.
@@ -69,7 +60,7 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 ![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)
+![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&white)
 ![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
