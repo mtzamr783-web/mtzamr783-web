@@ -10,7 +10,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1NNown4KTk/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mtzamr783@gmail.com)
 
-📱 **WhatsApp / Phone:** `+201110197867`
+📱 **WhatsApp / Phone:** `+201110197867` | `+201050729854`
 
 </div>
 
@@ -45,13 +45,13 @@
 #### 📂 [💻 Programming (ملفات كورسات البرمجة الأكاديمية)](https://github.com/mtzamr783-web/cybersecurity-roadmap/tree/main/Programming)
 يحتوي هذا المجلد على كافة ملفات الـ PDF والملخصات الخاصة برحلتي في أساسيات البرمجة، وهياكل البيانات، وتطبيقات اللغات التي أتقنتها:
 
-* 📄 **[الاساسيات](https://github.com/mtzamr783-web/cybersecurity-roadmap/blob/main/Programming/%D8%A7%D9%84%D8%A7%D8%B3%D8%A7%D8%B3%D9%8A%D8%A7%D8%AA.pdf)** - كتابة الأكواد البرمجية والتأسيس مع المهندس أسامة الزيرو بلغة C++.
-* 📄 **[تنفيذ الدوال](https://github.com/mtzamr783-web/cybersecurity-roadmap/blob/main/Programming/%D8%AA%D9%86%D9%81%D9%8A%D8%B0%20%D8%A7%D9%84%D8%AF%D9%85%D8%A7%D9%84.pdf)** - أكواد وتطبيقات عملية لشرح الدوال (Functions).
-* 📄 **[كورس الـ OOP](https://github.com/mtzamr783-web/cybersecurity-roadmap/blob/main/Programming/%D9%83%D9%88%D8%B1%D8%B3%20%D8%A7%D9%84%D9%8E%20OOP.pdf)** - مدخل ومفاهيم البرمجة كائنية التوجه (Object-Oriented Programming).
-* 📄 **[مشاريع بلغة الـ C++](https://github.com/mtzamr783-web/cybersecurity-roadmap/blob/main/Programming/%D9%85%D8%B4%D8%A7%D8%B1%D9%8A%D8%B9%20%D8%A8%D9%84%D8%BA%D8%A9%20%D8%A7%D9%84%D9%8E%20C%2B%2B.pdf)** - تطبيقات ومشاريع برمجية متنوعة بالـ C++.
+* 📄 **[الاساسيات](https://github.com/mtzamr783-web/cybersecurity-roadmap/blob/main/Programming/الاساسيات.pdf)** - كتابة الأكواد البرمجية والتأسيس مع المهندس أسامة الزيرو بلغة C++.
+* 📄 **[تنفيذ الدوال](https://github.com/mtzamr783-web/cybersecurity-roadmap/blob/main/Programming/تنفيذ%20الدوال.pdf)** - أكواد وتطبيقات عملية لشرح الدوال (Functions).
+* 📄 **[كورس الـ OOP](https://github.com/mtzamr783-web/cybersecurity-roadmap/blob/main/Programming/كورس%20الـ%20OOP.pdf)** - مدخل ومفاهيم البرمجة كائنية التوجه (Object-Oriented Programming).
+* 📄 **[مشاريع بلغة الـ C++](https://github.com/mtzamr783-web/cybersecurity-roadmap/blob/main/Programming/مشاريع%20بلغة%20الـ%20C%2B%2B.pdf)** - تطبيقات ومشاريع برمجية متنوعة بالـ C++.
 * 📄 **[Data Structure](https://github.com/mtzamr783-web/cybersecurity-roadmap/blob/main/Programming/Data%20Structure.pdf)** - شرح وتطبيقات هياكل وتراكيب البيانات الأساسية.
-* 📄 **[حل المشكلات](https://github.com/mtzamr783-web/cybersecurity-roadmap/blob/main/Programming/%D8%AD%D9%84%20%D8%A7%D9%84%D9%85%D8%B4%D9%83%D9%84%D8%A7%D8%AA.pdf)** - أكواد وحلول لمشكلات برمجية من منصات التحديات (المستوى الأول).
-* 📄 **[كوورس ومشاريع البايثون](https://github.com/mtzamr783-web/cybersecurity-roadmap/blob/main/Programming/%D9%83%D9%84%D9%8ور%D8%B3%20%D9%88%D9%85%D8%B4%D8%A7%D8%B1%D9%8A%D8%B9%20%D8%A7%D9%84%D8%A8%D8%A7%D9%8A%D8%AB%D9%88%D9%86.pdf)** - تجميعة كاملة لأكواد ومشاريع لغة بايثون والتطبيقات العملية والبرمجية عليها.
+* 📄 **[حل المشكلات](https://github.com/mtzamr783-web/cybersecurity-roadmap/blob/main/Programming/حل%20المشكلات.pdf)** - أكواد وحلول لمشكلات برمجية من منصات التحديات (المستوى الأول).
+* 📄 **[كوورس ومشاريع البايثون](https://github.com/mtzamr783-web/cybersecurity-roadmap/blob/main/Programming/كوورس%20ومشاريع%20البايثون.pdf)** - تجميعة كاملة لأكواد ومشاريع لغة بايثون والتطبيقات العملية والبرمجية عليها.
 
 ---
 
