@@ -38,11 +38,11 @@
 هنا تجميعة للملفات والمذكرات الخاصة بي (إعداد وتجميع: Moataz Amer):
 
 #### 🚀 [🛡️ Cybersecurity Learning Roadmap (خريطة طريق الأمن السيبراني)](https://github.com/mtzamr783-web/cybersecurity-roadmap)
-هذا هو مستودعي الرئيسي الذي أقوم فيه بتوثيق وتلخيص رحلتي التعليمية الكاملة في مجال الأمن السيبراني ، والدروس والتطبيقات العملية خطوة بخطوة.
+هذا هو المستودع الرئيسي الذي أقوم فيه بتوثيق وتلخيص رحلتي التعليمية الكاملة في مجال الأمن السيبراني ، والدروس والتطبيقات العملية خطوة بخطوة
 
 ---
 
-#### 📂 [💻 Programming (ملفات كورسات البرمجة الأكاديمية)](https://github.com/mtzamr783-web/cybersecurity-roadmap/tree/main/1-Programming)
+#### 📂 [💻 Programming (ملفات كورسات البرمجة)](https://github.com/mtzamr783-web/cybersecurity-roadmap/tree/main/1-Programming)
 يحتوي هذا المجلد على كافة ملفات الـ PDF والملخصات الخاصة برحلتي في أساسيات البرمجة، وهياكل البيانات، وتطبيقات اللغات التي أتقنتها:
 
 * 📄 **[basics](https://github.com/mtzamr783-web/cybersecurity-roadmap/blob/main/1-Programming/basics.pdf)** - كتابة الأكواد البرمجية والتأسيس مع المهندس أسامة الزيرو بلغة C++.
@@ -55,7 +55,7 @@
 
 ---
 
-#### 📂 [🌐 Networking (ملخصات ودراسة كورس الشبكات)](https://github.com/mtzamr783-web/cybersecurity-roadmap/tree/main/2-Networking)
+#### 📂 [🌐 Networking (ملخصات ودراسة كورس الشبكات)](https://github.com/mtzamr783-web/cybersecurity-roadmap/tree/main/2-Network-Plus)
 المجلد المخصص لملفات وملاحظات كورس شبكات الكمبيوتر داخل مستودع خريطة الطريق
 
 <hr></hr>
